@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/mahonia"
+	"github.com/gaogaogoo/mahonia"
 	"flag"
 	"io"
 	"log"
